@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Investment Calculator",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the concepts of React such as useState, props, two-way data binding by building an app.",
+    "skills": ["React", "HTML", "CSS"],
+    "demo": "https://investment-calculator-react-psi.vercel.app/",
+    "source": "https://github.com/Asmi4/InvestmentCalculatorReact"
+  },
+  {
+    "title": "Tic Tac Toe Game",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn concepts of React such as useState, event handling, conditional rendering.",
+    "skills": ["React", "HTML", "Node", "CSS"],
+    "demo": "https://tic-tac-toe-sandy-mu.vercel.app/",
+    "source": "https://github.com/Asmi4/TicTacToe"
+  },
+  {
+    "title": "Place Picker App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the dynamic content update, state management by building an app.",
+    "skills": ["React", "HTML", "CSS"],
+    "demo": "https://place-picker-react.vercel.app/",
+    "source": "https://github.com/Asmi4/PlacePicker_React"
+  }
+]

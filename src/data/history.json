@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Business Analyst",
+    "organisation": "Accenture",
+    "startDate": "July, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked on creating user stories", "Did requirement analysis"],
+    "imageSrc": "history/Accenture.png"
+  },
+  {
+    "role": "Systems Engineer",
+    "organisation": "Infosys",
+    "startDate": "Aug, 2018",
+    "endDate": "May, 2020",
+    "experiences": ["Worked on .Net Applications", "Worked on pl/sql application"],
+    "imageSrc": "history/Infosys.png"
+  },
+  {
+    "role": "ML Intern",
+    "organisation": "Stir Research Technologies",
+    "startDate": "Apr, 2021",
+    "endDate": "Jun, 2021",
+    "experiences": [
+      "Built CNN algorithm for image classification",
+      "Optimized the code for 80% accuracy"
+    ],
+    "imageSrc": "history/Stir.jpg"
+  }
+]
